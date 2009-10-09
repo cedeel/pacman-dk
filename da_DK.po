@@ -335,27 +335,29 @@ msgstr ""
 msgid ""
 "  -u, --unneeded       remove unneeded packages (that won't break packages)\n"
 msgstr ""
+"  -u, --unneeded       fjern unødige pakker (som ikke vil ødelægge pakker)\n"
 
 #, c-format
 msgid "      --asdeps         install packages as non-explicitly installed\n"
-msgstr ""
+msgstr "      --asdeps         installer pakker som ikke manuelt installeret\n"
 
 #, c-format
 msgid "      --asexplicit     install packages as explicitly installed\n"
-msgstr ""
+msgstr "      --asexplicit     installer pakker som manuelt installeret\n"
 
 #, c-format
 msgid "  -f, --force          force install, overwrite conflicting files\n"
-msgstr ""
+msgstr "  -f, --force          tving installation, overskriv konflikterende filer\n"
 
 #, c-format
 msgid "  -c, --changelog      view the changelog of a package\n"
-msgstr ""
+msgstr "  -c. --changelog      vis ændringslog for en pakke\n"
 
 #, c-format
 msgid ""
 "  -d, --deps           list packages installed as dependencies [filter]\n"
 msgstr ""
+"  -d, --deps           vis en liste af pakker installeret som afhængigheder [filter]\n"
 
 #, c-format
 msgid "  -e, --explicit       list packages explicitly installed [filter]\n"
