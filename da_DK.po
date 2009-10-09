@@ -102,67 +102,67 @@ msgstr ""
 
 #, c-format
 msgid ":: %s-%s: local version is newer. Upgrade anyway?"
-msgstr ""
+msgstr ":: %s-%s: lokal version er nyere. Opgrader alligevel?"
 
 #, c-format
 msgid ":: File %s is corrupted. Do you want to delete it?"
-msgstr ""
+msgstr ":: Filen %s er korrupt. Ønsker du at slette den?"
 
 #, c-format
 msgid "installing"
-msgstr ""
+msgstr "installerer"
 
 #, c-format
 msgid "upgrading"
-msgstr ""
+msgstr "opgraderer"
 
 #, c-format
 msgid "removing"
-msgstr ""
+msgstr "fjerner"
 
 #, c-format
 msgid "checking for file conflicts"
-msgstr ""
+msgstr "kontrollerer filkonflikter"
 
 #, c-format
 msgid "downloading %s...\n"
-msgstr ""
+msgstr "henter %s...\n"
 
 #, c-format
 msgid "malloc failure: could not allocate %zd bytes\n"
-msgstr ""
+msgstr "malloc fejl: kunne ikke allokere %zd bytes\n"
 
 #, c-format
 msgid "Explicitly installed"
-msgstr ""
+msgstr "Manuelt installeret"
 
 #, c-format
 msgid "Installed as a dependency for another package"
-msgstr ""
+msgstr "Installeret som en afhængighed af en anden pakke"
 
 #, c-format
 msgid "Unknown"
-msgstr ""
+msgstr "Ukendt"
 
 #, c-format
 msgid "Name           :"
-msgstr ""
+msgstr "Navn           :"
 
 #, c-format
 msgid "Version        :"
-msgstr ""
+msgstr "Version        :"
 
 #, c-format
 msgid "URL            :"
-msgstr ""
+msgstr "URL            :"
 
 #, c-format
 msgid "Licenses       :"
-msgstr ""
+msgstr "Licenser       :"
 
 #, c-format
 msgid "Groups         :"
-msgstr ""
+msgstr "Grupper        :"
 
 #, c-format
 msgid "Provides       :"
@@ -170,75 +170,75 @@ msgstr ""
 
 #, c-format
 msgid "Depends On     :"
-msgstr ""
+msgstr "Afhænger af    :"
 
 #, c-format
 msgid "Optional Deps  :"
-msgstr ""
+msgstr "Valgfrie afhængigheder :"
 
 #, c-format
 msgid "Required By    :"
-msgstr ""
+msgstr "Krævet af      :"
 
 #, c-format
 msgid "Conflicts With :"
-msgstr ""
+msgstr "Konflikter med :"
 
 #, c-format
 msgid "Replaces       :"
-msgstr ""
+msgstr "Erstatter      :"
 
 #, c-format
 msgid "Download Size  : %6.2f K\n"
-msgstr ""
+msgstr "Downloadstørrelse    : %6.2f K\n"
 
 #, c-format
 msgid "Compressed Size: %6.2f K\n"
-msgstr ""
+msgstr "Komprimeret størrelse: %6.2f K\n"
 
 #, c-format
 msgid "Installed Size : %6.2f K\n"
-msgstr ""
+msgstr "Installeret størrelse: %6.2f K\n"
 
 #, c-format
 msgid "Packager       :"
-msgstr ""
+msgstr "Pakkeejer      :"
 
 #, c-format
 msgid "Architecture   :"
-msgstr ""
+msgstr "Arkitektur     :"
 
 #, c-format
 msgid "Build Date     :"
-msgstr ""
+msgstr "Byggedato      :"
 
 #, c-format
 msgid "Install Date   :"
-msgstr ""
+msgstr "Installationsdato:"
 
 #, c-format
 msgid "Install Reason :"
-msgstr ""
+msgstr "Grund til installation:"
 
 #, c-format
 msgid "Install Script :"
-msgstr ""
+msgstr "Installeringsscript"
 
 #, c-format
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #, c-format
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 #, c-format
 msgid "MD5 Sum        :"
-msgstr ""
+msgstr "MD5-sum        :"
 
 #, c-format
 msgid "Description    :"
-msgstr ""
+msgstr "Beskrivelse    :"
 
 #, c-format
 msgid "Repository     :"
@@ -246,85 +246,90 @@ msgstr ""
 
 #, c-format
 msgid "Backup Files:\n"
-msgstr ""
+msgstr "Backupfiler:\n"
 
 #, c-format
 msgid "could not calculate checksums for %s\n"
-msgstr ""
+msgstr "kunne ikke beregne checksummer for %s\n"
 
 #, c-format
 msgid "MODIFIED\t%s\n"
-msgstr ""
+msgstr "MODIFICERET\t%s\n"
 
 #, c-format
 msgid "Not Modified\t%s\n"
-msgstr ""
+msgstr "Ikke modificeret\t%s\n"
 
 #, c-format
 msgid "MISSING\t\t%s\n"
-msgstr ""
+msgstr "MANGLER\t\t%s\n"
 
 #, c-format
 msgid "(none)\n"
-msgstr ""
+msgstr "(ingen)\n"
 
 #, c-format
 msgid "no changelog available for '%s'.\n"
-msgstr ""
+msgstr "ingen ændringslog tilgængelig for '%s'.\n"
 
 #, c-format
 msgid "options"
-msgstr ""
+msgstr "muligheder"
 
 #, c-format
 msgid "file(s)"
-msgstr ""
+msgstr "fil(er)"
 
 #, c-format
 msgid "package(s)"
-msgstr ""
+msgstr "pakke(r)"
 
 #, c-format
 msgid "usage"
-msgstr ""
+msgstr "brug"
 
 #, c-format
 msgid "operation"
-msgstr ""
+msgstr "operation"
 
 #, c-format
 msgid "operations:\n"
-msgstr ""
+msgstr "operationer:\n"
 
 #, c-format
 msgid ""
 "\n"
 "use '%s {-h --help}' with an operation for available options\n"
-msgstr ""
+msgstr "brug '%s {-h --help}' med en operation for tilgængelige "
+"muligheder\n"
 
 #, c-format
 msgid ""
 "  -c, --cascade        remove packages and all packages that depend on them\n"
 msgstr ""
+"  -c, --cascade        fjern pakker og alle pakker som afhænger af dem\n"
 
 #, c-format
 msgid "  -d, --nodeps         skip dependency checks\n"
-msgstr ""
+msgstr "  -d, --nodeps         spring afhængighedskotroller over\n"
 
 #, c-format
 msgid ""
 "  -k, --dbonly         only remove database entry, do not remove files\n"
 msgstr ""
+"  -k, --dbonly         fjern kun databaseindgang, slet ikke filer\n"
 
 #, c-format
 msgid "  -n, --nosave         remove configuration files as well\n"
-msgstr ""
+msgstr "  -n, --nosave         fjern også konfigurationsfiler\n"
 
 #, c-format
 msgid ""
 "  -s, --recursive      remove dependencies also (that won't break packages)\n"
 "                       (-ss includes explicitly installed dependencies too)\n"
 msgstr ""
+"  -s, --recursive      fjern også afhængigheder (som ikke vil ødelægge pakker)\n"
+"                       (-ss inkluderer også manuelt installerede pakker)\n"
 
 #, c-format
 msgid ""
